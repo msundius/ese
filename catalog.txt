@@ -1,0 +1,19 @@
+Mike's embedded school of embedded systmes programming
+list of modules that need implementing
+- debugio per module dynamically enabled
+- dpc scheduler
+- state machine engine
+- timer queues
+- lists
+- queues
+- run time type check
+- Assertions
+- program templates
+- buffer pools
+- runtime debugger
+- table driven cli
+- network command interface
+- smart reference pointers
+- user level driver plug and play 
+- diagnostics
+
